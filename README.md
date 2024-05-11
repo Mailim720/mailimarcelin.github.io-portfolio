@@ -1,9 +1,9 @@
 # Data Analyst
 
 ### Technical Skills
-PostgreSQL
-Tableau
-Microsoft Excel
+- PostgreSQL
+- Tableau
+- Microsoft Excel
 
 ### Education
 Biology, BSc
