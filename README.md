@@ -6,7 +6,7 @@
 - Microsoft Excel
 
 ### Education
-Biology, BSc
+BSc, Biology | Nova Southeastern University (May 2020)
 
 ### Work Experience
 Patient Coordinator @ Soran Health (December 2023 - March 2024)
